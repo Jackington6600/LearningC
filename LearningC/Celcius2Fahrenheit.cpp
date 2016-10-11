@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Converts a double in Celcius to Fahrenheit
 void c2f() {
 	double c, f;
 	cout << "Enter a temp in Celcius: ";
